@@ -3,6 +3,16 @@ ETL (Extract, Transform, Load) multiple data sets into a relational or NoSQL dat
 
 ## American Professional Football Database
 The database contains games stats and betting line information from 2010 - 2019.
+
+## Notebook
+**project2.ipynb**
+
+## Database Setup
+* create_db.sql
+* etl_schema.sql
+
+**Note**: Please create a sql_config.py file with your database connection information.
+
 ## Data Sources
 * NFL Games Stats
     
