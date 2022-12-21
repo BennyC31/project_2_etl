@@ -26,3 +26,7 @@ The database contains games stats and betting line information from 2010 - 2019.
 
 ### Scores and Betting Data
 * spreadspoke_scores.csv
+
+### Final Data Files
+* **clean_game_stats_2010_2019.csv**
+* **spread_info_2010_2019.csv**
