@@ -1,0 +1,740 @@
+,year,week,hometeam,teamhomeid,awayteam,teamawayid,teamfavid,pointspread,outotal
+10008,2010,1,New Orleans Saints,NOR,Minnesota Vikings,MIN,NO,-5.0,49.5
+10013,2010,1,New England Patriots,NWE,Cincinnati Bengals,CIN,NE,-5.5,45.0
+10015,2010,1,Philadelphia Eagles,PHI,Green Bay Packers,GNB,GB,-3.0,48.0
+10017,2010,1,Seattle Seahawks,SEA,San Francisco 49ers,SFO,SF,-3.0,37.0
+10019,2010,1,Tampa Bay Buccaneers,TAM,Cleveland Browns,CLE,TB,-2.5,37.0
+10022,2010,1,Kansas City Chiefs,KAN,San Diego Chargers,SDG,LAC,-4.0,45.5
+10031,2010,2,Green Bay Packers,GNB,Buffalo Bills,BUF,GB,-13.0,43.0
+10034,2010,2,New York Jets,NYJ,New England Patriots,NWE,NE,-3.0,39.5
+10035,2010,2,Oakland Raiders,OAK,St. Louis Rams,STL,LVR,-3.0,37.5
+10036,2010,2,San Diego Chargers,SDG,Jacksonville Jaguars,JAX,LAC,-7.0,45.0
+10039,2010,2,San Francisco 49ers,SFO,New Orleans Saints,NOR,NO,-5.0,43.5
+10046,2010,3,Kansas City Chiefs,KAN,San Francisco 49ers,SFO,SF,-3.0,38.0
+10049,2010,3,New England Patriots,NWE,Buffalo Bills,BUF,NE,-14.5,43.0
+10050,2010,3,New Orleans Saints,NOR,Atlanta Falcons,ATL,NO,-3.0,49.5
+10052,2010,3,Seattle Seahawks,SEA,San Diego Chargers,SDG,LAC,-4.0,44.0
+10055,2010,3,Chicago Bears,CHI,Green Bay Packers,GNB,GB,-3.0,46.5
+10059,2010,4,Green Bay Packers,GNB,Detroit Lions,DET,GB,-14.5,46.0
+10061,2010,4,New Orleans Saints,NOR,Carolina Panthers,CAR,NO,-12.5,44.0
+10066,2010,4,San Diego Chargers,SDG,Arizona Cardinals,ARI,LAC,-9.5,46.5
+10069,2010,4,Miami Dolphins,MIA,New England Patriots,NWE,NE,-1.0,48.0
+10070,2010,5,Arizona Cardinals,ARI,New Orleans Saints,NOR,NO,-7.0,45.5
+10080,2010,5,Oakland Raiders,OAK,San Diego Chargers,SDG,LAC,-7.0,44.0
+10081,2010,5,San Francisco 49ers,SFO,Philadelphia Eagles,PHI,SF,-3.0,38.5
+10082,2010,5,Washington Redskins,WAS,Green Bay Packers,GNB,GB,-3.0,45.5
+10086,2010,6,Green Bay Packers,GNB,Miami Dolphins,MIA,GB,-3.0,44.0
+10089,2010,6,New England Patriots,NWE,Baltimore Ravens,BAL,NE,-3.0,44.5
+10093,2010,6,San Francisco 49ers,SFO,Oakland Raiders,OAK,SF,-7.0,41.0
+10094,2010,6,St. Louis Rams,STL,San Diego Chargers,SDG,LAC,-8.5,45.0
+10095,2010,6,Tampa Bay Buccaneers,TAM,New Orleans Saints,NOR,NO,-5.5,44.0
+10100,2010,7,Carolina Panthers,CAR,San Francisco 49ers,SFO,SF,-2.5,35.5
+10103,2010,7,Green Bay Packers,GNB,Minnesota Vikings,MIN,GB,-2.5,44.5
+10104,2010,7,Kansas City Chiefs,KAN,Jacksonville Jaguars,JAX,KC,-9.0,39.0
+10106,2010,7,New Orleans Saints,NOR,Cleveland Browns,CLE,NO,-12.5,44.0
+10107,2010,7,San Diego Chargers,SDG,New England Patriots,NWE,LAC,-1.5,49.5
+10109,2010,7,Tampa Bay Buccaneers,TAM,St. Louis Rams,STL,TB,-3.0,39.0
+10116,2010,8,Kansas City Chiefs,KAN,Buffalo Bills,BUF,KC,-7.0,46.0
+10117,2010,8,New England Patriots,NWE,Minnesota Vikings,MIN,NE,-5.5,45.0
+10118,2010,8,New Orleans Saints,NOR,Pittsburgh Steelers,PIT,NO,-1.0,45.5
+10120,2010,8,Oakland Raiders,OAK,Seattle Seahawks,SEA,LVR,-2.0,40.5
+10121,2010,8,San Diego Chargers,SDG,Tennessee Titans,TEN,LAC,-6.0,45.0
+10122,2010,8,San Francisco 49ers,SFO,Denver Broncos,DEN,SF,-2.5,41.5
+10123,2010,8,St. Louis Rams,STL,Carolina Panthers,CAR,LAR,-2.5,37.0
+10128,2010,9,Carolina Panthers,CAR,New Orleans Saints,NOR,NO,-6.5,40.5
+10129,2010,9,Cleveland Browns,CLE,New England Patriots,NWE,NE,-4.0,43.5
+10131,2010,9,Green Bay Packers,GNB,Dallas Cowboys,DAL,GB,-7.0,45.5
+10132,2010,9,Houston Texans,HOU,San Diego Chargers,SDG,LAC,-3.0,49.5
+10134,2010,9,Oakland Raiders,OAK,Kansas City Chiefs,KAN,PICK,0.0,41.0
+10143,2010,10,Denver Broncos,DEN,Kansas City Chiefs,KAN,KC,-1.0,44.5
+10145,2010,10,Jacksonville Jaguars,JAX,Houston Texans,HOU,PICK,0.0,48.5
+10149,2010,10,San Francisco 49ers,SFO,St. Louis Rams,STL,SF,-4.5,39.0
+10150,2010,10,Tampa Bay Buccaneers,TAM,Carolina Panthers,CAR,TB,-7.0,37.0
+10157,2010,11,Kansas City Chiefs,KAN,Arizona Cardinals,ARI,KC,-7.0,45.0
+10158,2010,11,Minnesota Vikings,MIN,Green Bay Packers,GNB,GB,-3.0,45.0
+10159,2010,11,New England Patriots,NWE,Indianapolis Colts,IND,NE,-4.5,50.0
+10160,2010,11,New Orleans Saints,NOR,Seattle Seahawks,SEA,NO,-11.0,45.0
+10164,2010,11,San Francisco 49ers,SFO,Tampa Bay Buccaneers,TAM,SF,-3.5,41.5
+10167,2010,11,San Diego Chargers,SDG,Denver Broncos,DEN,LAC,-9.0,50.0
+10168,2010,12,Dallas Cowboys,DAL,New Orleans Saints,NOR,NO,-4.5,49.0
+10169,2010,12,Detroit Lions,DET,New England Patriots,NWE,NE,-7.5,50.5
+10180,2010,12,Oakland Raiders,OAK,Miami Dolphins,MIA,LVR,-3.0,38.0
+10181,2010,12,Seattle Seahawks,SEA,Kansas City Chiefs,KAN,KC,-2.0,45.0
+10183,2010,12,Arizona Cardinals,ARI,San Francisco 49ers,SFO,SF,-2.0,42.0
+10185,2010,13,Arizona Cardinals,ARI,St. Louis Rams,STL,LAR,-3.5,44.0
+10187,2010,13,Cincinnati Bengals,CIN,New Orleans Saints,NOR,NO,-7.0,45.5
+10189,2010,13,Green Bay Packers,GNB,San Francisco 49ers,SFO,GB,-9.0,41.0
+10191,2010,13,Kansas City Chiefs,KAN,Denver Broncos,DEN,KC,-8.0,48.5
+10195,2010,13,San Diego Chargers,SDG,Oakland Raiders,OAK,LAC,-13.0,44.5
+10199,2010,13,New England Patriots,NWE,New York Jets,NYJ,NE,-4.0,44.5
+10202,2010,14,Buffalo Bills,BUF,Cleveland Browns,CLE,PICK,0.0,39.0
+10204,2010,14,Chicago Bears,CHI,New England Patriots,NWE,NE,-3.0,37.0
+10206,2010,14,Detroit Lions,DET,Green Bay Packers,GNB,GB,-7.0,46.0
+10208,2010,14,New Orleans Saints,NOR,St. Louis Rams,STL,NO,-9.0,47.0
+10211,2010,14,San Diego Chargers,SDG,Kansas City Chiefs,KAN,LAC,-10.0,45.5
+10212,2010,14,San Francisco 49ers,SFO,Seattle Seahawks,SEA,SF,-5.0,43.0
+10213,2010,14,Washington Redskins,WAS,Tampa Bay Buccaneers,TAM,TB,-1.5,41.5
+10216,2010,15,San Diego Chargers,SDG,San Francisco 49ers,SFO,LAC,-10.5,45.0
+10219,2010,15,Cincinnati Bengals,CIN,Cleveland Browns,CLE,PICK,0.0,41.0
+10223,2010,15,New England Patriots,NWE,Green Bay Packers,GNB,NE,-14.5,43.5
+10225,2010,15,Oakland Raiders,OAK,Denver Broncos,DEN,LVR,-8.0,42.0
+10228,2010,15,St. Louis Rams,STL,Kansas City Chiefs,KAN,LAR,-3.0,42.5
+10229,2010,15,Tampa Bay Buccaneers,TAM,Detroit Lions,DET,TB,-4.0,43.0
+10234,2010,16,Buffalo Bills,BUF,New England Patriots,NWE,NE,-9.0,45.5
+10236,2010,16,Cincinnati Bengals,CIN,San Diego Chargers,SDG,LAC,-8.0,43.5
+10239,2010,16,Green Bay Packers,GNB,New York Giants,NYG,GB,-3.0,43.0
+10241,2010,16,Kansas City Chiefs,KAN,Tennessee Titans,TEN,KC,-4.0,42.5
+10244,2010,16,St. Louis Rams,STL,San Francisco 49ers,SFO,LAR,-2.5,40.0
+10245,2010,16,Tampa Bay Buccaneers,TAM,Seattle Seahawks,SEA,TB,-6.0,43.5
+10251,2010,17,Denver Broncos,DEN,San Diego Chargers,SDG,LAC,-3.5,47.5
+10253,2010,17,Green Bay Packers,GNB,Chicago Bears,CHI,GB,-10.5,43.5
+10256,2010,17,Kansas City Chiefs,KAN,Oakland Raiders,OAK,KC,-4.5,43.5
+10257,2010,17,New England Patriots,NWE,Miami Dolphins,MIA,NE,-6.0,44.0
+10258,2010,17,New Orleans Saints,NOR,Tampa Bay Buccaneers,TAM,NO,-7.0,47.0
+10260,2010,17,Philadelphia Eagles,PHI,Dallas Cowboys,DAL,PICK,0.0,43.5
+10261,2010,17,San Francisco 49ers,SFO,Arizona Cardinals,ARI,SF,-6.0,39.0
+10262,2010,17,Seattle Seahawks,SEA,St. Louis Rams,STL,LAR,-3.0,41.5
+10275,2011,1,Green Bay Packers,GNB,New Orleans Saints,NOR,GB,-5.0,48.0
+10282,2011,1,Kansas City Chiefs,KAN,Buffalo Bills,BUF,KC,-3.5,40.0
+10284,2011,1,San Diego Chargers,SDG,Minnesota Vikings,MIN,LAC,-8.5,43.0
+10285,2011,1,San Francisco 49ers,SFO,Seattle Seahawks,SEA,SF,-6.0,38.0
+10287,2011,1,Tampa Bay Buccaneers,TAM,Detroit Lions,DET,TB,-1.5,43.5
+10290,2011,1,Miami Dolphins,MIA,New England Patriots,NWE,NE,-7.5,47.0
+10293,2011,2,Carolina Panthers,CAR,Green Bay Packers,GNB,GB,-11.0,45.0
+10299,2011,2,New England Patriots,NWE,San Diego Chargers,SDG,NE,-7.0,53.5
+10300,2011,2,New Orleans Saints,NOR,Chicago Bears,CHI,NO,-5.0,46.5
+10307,2011,3,Buffalo Bills,BUF,New England Patriots,NWE,NE,-7.5,54.5
+10309,2011,3,Chicago Bears,CHI,Green Bay Packers,GNB,GB,-5.0,45.5
+10314,2011,3,New Orleans Saints,NOR,Houston Texans,HOU,NO,-4.0,51.0
+10317,2011,3,San Diego Chargers,SDG,Kansas City Chiefs,KAN,LAC,-14.5,44.5
+10320,2011,3,Tampa Bay Buccaneers,TAM,Atlanta Falcons,ATL,TB,-1.0,45.0
+10329,2011,4,Green Bay Packers,GNB,Denver Broncos,DEN,GB,-12.0,46.5
+10331,2011,4,Jacksonville Jaguars,JAX,New Orleans Saints,NOR,NO,-9.0,45.0
+10333,2011,4,Oakland Raiders,OAK,New England Patriots,NWE,NE,-6.5,55.5
+10335,2011,4,San Diego Chargers,SDG,Miami Dolphins,MIA,LAC,-7.0,45.0
+10338,2011,4,Tampa Bay Buccaneers,TAM,Indianapolis Colts,IND,TB,-10.0,40.5
+10339,2011,5,Atlanta Falcons,ATL,Green Bay Packers,GNB,GB,-6.5,53.0
+10341,2011,5,Carolina Panthers,CAR,New Orleans Saints,NOR,NO,-6.5,51.5
+10342,2011,5,Denver Broncos,DEN,San Diego Chargers,SDG,LAC,-3.5,46.5
+10347,2011,5,New England Patriots,NWE,New York Jets,NYJ,NE,-7.5,50.0
+10350,2011,5,San Francisco 49ers,SFO,Tampa Bay Buccaneers,TAM,SF,-3.0,41.5
+10357,2011,6,Green Bay Packers,GNB,St. Louis Rams,STL,GB,-14.0,47.5
+10358,2011,6,New England Patriots,NWE,Dallas Cowboys,DAL,NE,-7.0,54.5
+10360,2011,6,Oakland Raiders,OAK,Cleveland Browns,CLE,LVR,-6.5,45.0
+10362,2011,6,Tampa Bay Buccaneers,TAM,New Orleans Saints,NOR,NO,-6.5,49.5
+10371,2011,7,Minnesota Vikings,MIN,Green Bay Packers,GNB,GB,-11.0,47.0
+10372,2011,7,New Orleans Saints,NOR,Indianapolis Colts,IND,NO,-14.0,49.0
+10373,2011,7,New York Jets,NYJ,San Diego Chargers,SDG,LAC,-1.0,43.5
+10374,2011,7,Oakland Raiders,OAK,Kansas City Chiefs,KAN,LVR,-3.5,41.5
+10385,2011,8,Pittsburgh Steelers,PIT,New England Patriots,NWE,NE,-3.0,52.0
+10386,2011,8,San Francisco 49ers,SFO,Cleveland Browns,CLE,SF,-9.5,38.5
+10388,2011,8,St. Louis Rams,STL,New Orleans Saints,NOR,NO,-14.0,48.5
+10390,2011,8,Kansas City Chiefs,KAN,San Diego Chargers,SDG,LAC,-3.0,44.5
+10396,2011,9,Kansas City Chiefs,KAN,Miami Dolphins,MIA,KC,-4.0,40.5
+10397,2011,9,New England Patriots,NWE,New York Giants,NYG,NE,-9.0,51.0
+10398,2011,9,New Orleans Saints,NOR,Tampa Bay Buccaneers,TAM,NO,-9.0,50.5
+10399,2011,9,Oakland Raiders,OAK,Denver Broncos,DEN,LVR,-7.5,42.5
+10401,2011,9,San Diego Chargers,SDG,Green Bay Packers,GNB,GB,-6.0,51.0
+10403,2011,9,Washington Redskins,WAS,San Francisco 49ers,SFO,SF,-4.5,37.5
+10405,2011,10,San Diego Chargers,SDG,Oakland Raiders,OAK,LAC,-7.0,48.0
+10413,2011,10,Kansas City Chiefs,KAN,Denver Broncos,DEN,KC,-3.5,42.5
+10417,2011,10,San Francisco 49ers,SFO,New York Giants,NYG,SF,-4.0,42.5
+10420,2011,10,Green Bay Packers,GNB,Minnesota Vikings,MIN,GB,-13.0,50.0
+10427,2011,11,Green Bay Packers,GNB,Tampa Bay Buccaneers,TAM,GB,-13.5,49.0
+10431,2011,11,San Francisco 49ers,SFO,Arizona Cardinals,ARI,SF,-10.0,40.5
+10432,2011,11,St. Louis Rams,STL,Seattle Seahawks,SEA,LAR,-3.0,40.0
+10434,2011,11,New England Patriots,NWE,Kansas City Chiefs,KAN,NE,-17.0,47.0
+10437,2011,12,Detroit Lions,DET,Green Bay Packers,GNB,GB,-4.5,55.0
+10444,2011,12,Oakland Raiders,OAK,Chicago Bears,CHI,LVR,-3.0,41.0
+10445,2011,12,Philadelphia Eagles,PHI,New England Patriots,NWE,NE,-3.5,50.5
+10446,2011,12,San Diego Chargers,SDG,Denver Broncos,DEN,LAC,-5.5,42.0
+10448,2011,12,St. Louis Rams,STL,Arizona Cardinals,ARI,LAR,-2.5,40.0
+10450,2011,12,New Orleans Saints,NOR,New York Giants,NYG,NO,-7.0,51.0
+10459,2011,13,New England Patriots,NWE,Indianapolis Colts,IND,NE,-20.5,48.5
+10460,2011,13,New Orleans Saints,NOR,Detroit Lions,DET,NO,-9.0,54.5
+10461,2011,13,New York Giants,NYG,Green Bay Packers,GNB,GB,-7.0,54.0
+10463,2011,13,San Francisco 49ers,SFO,St. Louis Rams,STL,SF,-14.5,38.5
+10466,2011,13,Jacksonville Jaguars,JAX,San Diego Chargers,SDG,LAC,-3.0,39.5
+10468,2011,14,Arizona Cardinals,ARI,San Francisco 49ers,SFO,SF,-3.5,40.0
+10475,2011,14,Green Bay Packers,GNB,Oakland Raiders,OAK,GB,-11.5,49.5
+10476,2011,14,Jacksonville Jaguars,JAX,Tampa Bay Buccaneers,TAM,TB,-3.0,42.0
+10479,2011,14,San Diego Chargers,SDG,Buffalo Bills,BUF,LAC,-7.0,49.0
+10480,2011,14,Tennessee Titans,TEN,New Orleans Saints,NOR,NO,-3.5,48.0
+10481,2011,14,Washington Redskins,WAS,New England Patriots,NWE,NE,-7.5,47.0
+10488,2011,15,Denver Broncos,DEN,New England Patriots,NWE,NE,-7.5,47.5
+10491,2011,15,Kansas City Chiefs,KAN,Green Bay Packers,GNB,GB,-11.5,46.0
+10492,2011,15,Minnesota Vikings,MIN,New Orleans Saints,NOR,NO,-7.5,53.5
+10498,2011,15,San Francisco 49ers,SFO,Pittsburgh Steelers,PIT,SF,-3.0,37.0
+10505,2011,16,Detroit Lions,DET,San Diego Chargers,SDG,LAC,-1.0,53.0
+10506,2011,16,Kansas City Chiefs,KAN,Oakland Raiders,OAK,KC,-3.0,43.0
+10507,2011,16,New England Patriots,NWE,Miami Dolphins,MIA,NE,-7.5,49.5
+10510,2011,16,Seattle Seahawks,SEA,San Francisco 49ers,SFO,SF,-2.5,37.0
+10513,2011,16,Green Bay Packers,GNB,Chicago Bears,CHI,GB,-13.0,42.0
+10514,2011,16,New Orleans Saints,NOR,Atlanta Falcons,ATL,NO,-7.0,52.5
+10525,2011,17,New England Patriots,NWE,Buffalo Bills,BUF,NE,-10.0,50.0
+10526,2011,17,New Orleans Saints,NOR,Carolina Panthers,CAR,NO,-7.0,55.0
+10528,2011,17,Oakland Raiders,OAK,San Diego Chargers,SDG,LVR,-3.0,48.5
+10530,2011,17,St. Louis Rams,STL,San Francisco 49ers,SFO,SF,-12.5,34.5
+10548,2012,1,Green Bay Packers,GNB,San Francisco 49ers,SFO,GB,-5.5,46.5
+10552,2012,1,New Orleans Saints,NOR,Washington Redskins,WAS,NO,-9.0,50.5
+10555,2012,1,Tennessee Titans,TEN,New England Patriots,NWE,NE,-6.5,48.0
+10557,2012,1,Oakland Raiders,OAK,San Diego Chargers,SDG,LVR,-1.0,47.5
+10558,2012,2,Green Bay Packers,GNB,Chicago Bears,CHI,GB,-5.5,51.0
+10560,2012,2,Carolina Panthers,CAR,New Orleans Saints,NOR,NO,-3.0,54.0
+10564,2012,2,Miami Dolphins,MIA,Oakland Raiders,OAK,LVR,-2.0,41.0
+10565,2012,2,New England Patriots,NWE,Arizona Cardinals,ARI,NE,-13.5,47.0
+10569,2012,2,San Diego Chargers,SDG,Tennessee Titans,TEN,LAC,-6.0,43.5
+10570,2012,2,San Francisco 49ers,SFO,Detroit Lions,DET,SF,-7.0,46.0
+10583,2012,3,Minnesota Vikings,MIN,San Francisco 49ers,SFO,SF,-7.0,42.5
+10584,2012,3,New Orleans Saints,NOR,Kansas City Chiefs,KAN,NO,-8.5,51.5
+10586,2012,3,San Diego Chargers,SDG,Atlanta Falcons,ATL,LAC,-3.0,47.5
+10589,2012,3,Seattle Seahawks,SEA,Green Bay Packers,GNB,GB,-3.5,45.5
+10593,2012,4,Buffalo Bills,BUF,New England Patriots,NWE,NE,-4.5,48.5
+10596,2012,4,Green Bay Packers,GNB,New Orleans Saints,NOR,GB,-7.5,54.0
+10599,2012,4,Kansas City Chiefs,KAN,San Diego Chargers,SDG,LAC,-2.5,43.5
+10600,2012,4,New York Jets,NYJ,San Francisco 49ers,SFO,SF,-4.0,41.0
+10603,2012,4,Tampa Bay Buccaneers,TAM,Washington Redskins,WAS,TB,-2.0,45.0
+10608,2012,5,Indianapolis Colts,IND,Green Bay Packers,GNB,GB,-6.5,49.0
+10612,2012,5,New England Patriots,NWE,Denver Broncos,DEN,NE,-6.0,51.5
+10613,2012,5,New Orleans Saints,NOR,San Diego Chargers,SDG,NO,-3.5,52.5
+10616,2012,5,San Francisco 49ers,SFO,Buffalo Bills,BUF,SF,-10.0,45.0
+10628,2012,6,San Francisco 49ers,SFO,New York Giants,NYG,SF,-7.0,46.5
+10629,2012,6,Seattle Seahawks,SEA,New England Patriots,NWE,NE,-4.0,42.5
+10630,2012,6,Tampa Bay Buccaneers,TAM,Kansas City Chiefs,KAN,TB,-5.0,39.5
+10632,2012,6,San Diego Chargers,SDG,Denver Broncos,DEN,PICK,0.0,47.5
+10633,2012,7,San Francisco 49ers,SFO,Seattle Seahawks,SEA,SF,-7.5,37.5
+10640,2012,7,New England Patriots,NWE,New York Jets,NYJ,NE,-10.5,47.0
+10642,2012,7,Oakland Raiders,OAK,Jacksonville Jaguars,JAX,LVR,-6.0,44.0
+10643,2012,7,St. Louis Rams,STL,Green Bay Packers,GNB,GB,-5.0,45.0
+10644,2012,7,Tampa Bay Buccaneers,TAM,New Orleans Saints,NOR,NO,-1.5,49.5
+10648,2012,8,Cleveland Browns,CLE,San Diego Chargers,SDG,LAC,-3.0,41.0
+10652,2012,8,Green Bay Packers,GNB,Jacksonville Jaguars,JAX,GB,-16.0,45.5
+10653,2012,8,Kansas City Chiefs,KAN,Oakland Raiders,OAK,KC,-1.0,42.5
+10657,2012,8,St. Louis Rams,STL,New England Patriots,NWE,NE,-7.0,46.0
+10659,2012,8,Arizona Cardinals,ARI,San Francisco 49ers,SFO,SF,-7.0,38.5
+10660,2012,9,San Diego Chargers,SDG,Kansas City Chiefs,KAN,LAC,-7.0,41.0
+10664,2012,9,Green Bay Packers,GNB,Arizona Cardinals,ARI,GB,-10.5,43.5
+10669,2012,9,Oakland Raiders,OAK,Tampa Bay Buccaneers,TAM,LVR,-1.0,47.5
+10673,2012,9,New Orleans Saints,NOR,Philadelphia Eagles,PHI,NO,-3.0,52.0
+10681,2012,10,New England Patriots,NWE,Buffalo Bills,BUF,NE,-13.5,54.0
+10684,2012,10,San Francisco 49ers,SFO,St. Louis Rams,STL,SF,-13.0,38.0
+10686,2012,10,Tampa Bay Buccaneers,TAM,San Diego Chargers,SDG,TB,-3.0,47.0
+10690,2012,11,Carolina Panthers,CAR,Tampa Bay Buccaneers,TAM,TB,-1.5,47.0
+10693,2012,11,Detroit Lions,DET,Green Bay Packers,GNB,GB,-3.0,53.5
+10696,2012,11,New England Patriots,NWE,Indianapolis Colts,IND,NE,-10.0,55.0
+10697,2012,11,Oakland Raiders,OAK,New Orleans Saints,NOR,NO,-6.5,56.0
+10699,2012,11,St. Louis Rams,STL,New York Jets,NYJ,LAR,-3.5,38.5
+10701,2012,11,San Francisco 49ers,SFO,Chicago Bears,CHI,SF,-5.0,35.0
+10704,2012,12,New York Jets,NYJ,New England Patriots,NWE,NE,-7.0,48.5
+10713,2012,12,New Orleans Saints,NOR,San Francisco 49ers,SFO,SF,-1.5,50.0
+10725,2012,13,Green Bay Packers,GNB,Minnesota Vikings,MIN,GB,-7.5,47.0
+10727,2012,13,Miami Dolphins,MIA,New England Patriots,NWE,NE,-9.0,51.5
+10731,2012,13,St. Louis Rams,STL,San Francisco 49ers,SFO,SF,-8.0,41.0
+10739,2012,14,Green Bay Packers,GNB,Detroit Lions,DET,GB,-6.5,49.0
+10745,2012,14,San Francisco 49ers,SFO,Miami Dolphins,MIA,SF,-10.5,38.5
+10747,2012,14,Tampa Bay Buccaneers,TAM,Philadelphia Eagles,PHI,TB,-7.0,48.0
+10749,2012,14,New England Patriots,NWE,Houston Texans,HOU,NE,-5.5,51.0
+10752,2012,15,Atlanta Falcons,ATL,New York Giants,NYG,PICK,0.0,50.0
+10755,2012,15,Chicago Bears,CHI,Green Bay Packers,GNB,GB,-3.0,43.5
+10760,2012,15,New England Patriots,NWE,San Francisco 49ers,SFO,NE,-5.0,47.5
+10761,2012,15,New Orleans Saints,NOR,Tampa Bay Buccaneers,TAM,NO,-3.5,55.0
+10762,2012,15,Oakland Raiders,OAK,Kansas City Chiefs,KAN,LVR,-4.5,44.0
+10763,2012,15,San Diego Chargers,SDG,Carolina Panthers,CAR,LAC,-3.0,45.5
+10764,2012,15,St. Louis Rams,STL,Minnesota Vikings,MIN,LAR,-2.5,39.5
+10772,2012,16,Green Bay Packers,GNB,Tennessee Titans,TEN,GB,-11.0,44.5
+10774,2012,16,Jacksonville Jaguars,JAX,New England Patriots,NWE,NE,-14.5,51.0
+10781,2012,16,Tampa Bay Buccaneers,TAM,St. Louis Rams,STL,TB,-3.0,44.0
+10788,2012,17,Minnesota Vikings,MIN,Green Bay Packers,GNB,GB,-3.0,46.0
+10789,2012,17,New England Patriots,NWE,Miami Dolphins,MIA,NE,-10.0,46.5
+10790,2012,17,New Orleans Saints,NOR,Carolina Panthers,CAR,NO,-4.0,54.0
+10793,2012,17,San Diego Chargers,SDG,Oakland Raiders,OAK,LAC,-8.0,41.5
+10794,2012,17,San Francisco 49ers,SFO,Arizona Cardinals,ARI,SF,-16.5,39.5
+10810,2013,1,Buffalo Bills,BUF,New England Patriots,NWE,NE,-10.5,51.5
+10817,2013,1,Jacksonville Jaguars,JAX,Kansas City Chiefs,KAN,KC,-4.5,43.0
+10818,2013,1,New Orleans Saints,NOR,Atlanta Falcons,ATL,NO,-3.5,56.0
+10819,2013,1,New York Jets,NYJ,Tampa Bay Buccaneers,TAM,TB,-6.0,39.0
+10821,2013,1,San Francisco 49ers,SFO,Green Bay Packers,GNB,SF,-5.0,48.5
+10822,2013,1,St. Louis Rams,STL,Arizona Cardinals,ARI,LAR,-3.5,41.5
+10825,2013,2,New England Patriots,NWE,New York Jets,NYJ,NE,-11.5,43.5
+10831,2013,2,Green Bay Packers,GNB,Washington Redskins,WAS,GB,-8.0,50.0
+10834,2013,2,Kansas City Chiefs,KAN,Dallas Cowboys,DAL,KC,-3.0,46.0
+10836,2013,2,Oakland Raiders,OAK,Jacksonville Jaguars,JAX,LVR,-5.0,40.0
+10839,2013,2,Tampa Bay Buccaneers,TAM,New Orleans Saints,NOR,NO,-4.0,48.5
+10844,2013,3,Cincinnati Bengals,CIN,Green Bay Packers,GNB,GB,-3.0,50.5
+10848,2013,3,New England Patriots,NWE,Tampa Bay Buccaneers,TAM,NE,-7.5,45.0
+10849,2013,3,New Orleans Saints,NOR,Arizona Cardinals,ARI,NO,-7.5,49.5
+10852,2013,3,San Francisco 49ers,SFO,Indianapolis Colts,IND,SF,-10.0,47.0
+10857,2013,4,St. Louis Rams,STL,San Francisco 49ers,SFO,SF,-4.0,43.5
+10865,2013,4,Kansas City Chiefs,KAN,New York Giants,NYG,KC,-4.5,44.0
+10869,2013,4,Tampa Bay Buccaneers,TAM,Arizona Cardinals,ARI,TB,-2.5,40.0
+10871,2013,4,New Orleans Saints,NOR,Miami Dolphins,MIA,NO,-7.5,49.0
+10874,2013,5,Chicago Bears,CHI,New Orleans Saints,NOR,NO,-1.5,51.5
+10875,2013,5,Cincinnati Bengals,CIN,New England Patriots,NWE,NE,-1.0,45.5
+10877,2013,5,Green Bay Packers,GNB,Detroit Lions,DET,GB,-9.5,55.0
+10881,2013,5,Oakland Raiders,OAK,San Diego Chargers,SDG,LAC,-5.0,47.0
+10882,2013,5,San Francisco 49ers,SFO,Houston Texans,HOU,SF,-4.5,44.0
+10883,2013,5,St. Louis Rams,STL,Jacksonville Jaguars,JAX,LAR,-11.0,41.0
+10884,2013,5,Tennessee Titans,TEN,Kansas City Chiefs,KAN,KC,-3.0,38.5
+10887,2013,6,Baltimore Ravens,BAL,Green Bay Packers,GNB,GB,-2.0,48.0
+10893,2013,6,Kansas City Chiefs,KAN,Oakland Raiders,OAK,KC,-7.5,41.5
+10895,2013,6,New England Patriots,NWE,New Orleans Saints,NOR,NE,-2.5,50.0
+10897,2013,6,San Francisco 49ers,SFO,Arizona Cardinals,ARI,SF,-10.5,41.0
+10900,2013,6,San Diego Chargers,SDG,Indianapolis Colts,IND,PICK,0.0,50.5
+10905,2013,7,Green Bay Packers,GNB,Cleveland Browns,CLE,GB,-9.5,45.0
+10907,2013,7,Jacksonville Jaguars,JAX,San Diego Chargers,SDG,LAC,-7.0,44.5
+10908,2013,7,Kansas City Chiefs,KAN,Houston Texans,HOU,KC,-6.0,39.0
+10910,2013,7,New York Jets,NYJ,New England Patriots,NWE,NE,-3.0,43.0
+10913,2013,7,Tennessee Titans,TEN,San Francisco 49ers,SFO,SF,-3.0,40.5
+10921,2013,8,Jacksonville Jaguars,JAX,San Francisco 49ers,SFO,SF,-14.5,40.0
+10922,2013,8,Kansas City Chiefs,KAN,Cleveland Browns,CLE,KC,-7.0,39.0
+10923,2013,8,Minnesota Vikings,MIN,Green Bay Packers,GNB,GB,-7.5,47.0
+10924,2013,8,New England Patriots,NWE,Miami Dolphins,MIA,NE,-5.5,45.0
+10925,2013,8,New Orleans Saints,NOR,Buffalo Bills,BUF,NO,-10.5,48.0
+10930,2013,9,Buffalo Bills,BUF,Kansas City Chiefs,KAN,KC,-4.5,41.0
+10935,2013,9,New England Patriots,NWE,Pittsburgh Steelers,PIT,NE,-5.5,43.0
+10936,2013,9,New York Jets,NYJ,New Orleans Saints,NOR,NO,-5.5,46.0
+10937,2013,9,Oakland Raiders,OAK,Philadelphia Eagles,PHI,LVR,-1.0,45.5
+10940,2013,9,Washington Redskins,WAS,San Diego Chargers,SDG,PICK,0.0,48.5
+10941,2013,9,Green Bay Packers,GNB,Chicago Bears,CHI,GB,-9.5,50.5
+10949,2013,10,New Orleans Saints,NOR,Dallas Cowboys,DAL,NO,-5.5,53.5
+10953,2013,10,San Francisco 49ers,SFO,Carolina Panthers,CAR,SF,-5.5,42.5
+10963,2013,11,Miami Dolphins,MIA,San Diego Chargers,SDG,LAC,-3.0,44.5
+10964,2013,11,New Orleans Saints,NOR,San Francisco 49ers,SFO,NO,-3.5,49.5
+10969,2013,11,Tampa Bay Buccaneers,TAM,Atlanta Falcons,ATL,TB,-2.0,43.5
+10971,2013,12,Atlanta Falcons,ATL,New Orleans Saints,NOR,NO,-7.0,52.5
+10976,2013,12,Green Bay Packers,GNB,Minnesota Vikings,MIN,GB,-5.5,44.5
+10978,2013,12,Kansas City Chiefs,KAN,San Diego Chargers,SDG,KC,-3.0,42.5
+10983,2013,12,St. Louis Rams,STL,Chicago Bears,CHI,LAR,-1.5,45.0
+10984,2013,12,Washington Redskins,WAS,San Francisco 49ers,SFO,SF,-5.0,47.0
+10991,2013,13,Houston Texans,HOU,New England Patriots,NWE,NE,-6.5,47.5
+10998,2013,13,San Francisco 49ers,SFO,St. Louis Rams,STL,SF,-7.5,40.0
+11006,2013,14,Green Bay Packers,GNB,Atlanta Falcons,ATL,GB,-3.5,45.0
+11007,2013,14,New England Patriots,NWE,Cleveland Browns,CLE,NE,-9.5,47.5
+11008,2013,14,New Orleans Saints,NOR,Carolina Panthers,CAR,NO,-3.0,46.5
+11012,2013,14,San Diego Chargers,SDG,New York Giants,NYG,LAC,-4.0,46.5
+11013,2013,14,San Francisco 49ers,SFO,Seattle Seahawks,SEA,SF,-2.0,41.0
+11014,2013,14,Tampa Bay Buccaneers,TAM,Buffalo Bills,BUF,TB,-2.5,42.5
+11015,2013,14,Washington Redskins,WAS,Kansas City Chiefs,KAN,KC,-3.0,44.5
+11027,2013,15,Oakland Raiders,OAK,Kansas City Chiefs,KAN,KC,-6.0,44.5
+11029,2013,15,St. Louis Rams,STL,New Orleans Saints,NOR,NO,-7.0,48.0
+11030,2013,15,Tampa Bay Buccaneers,TAM,San Francisco 49ers,SFO,SF,-4.5,41.0
+11038,2013,16,Green Bay Packers,GNB,Pittsburgh Steelers,PIT,GB,-2.0,44.5
+11041,2013,16,Kansas City Chiefs,KAN,Indianapolis Colts,IND,KC,-7.0,46.5
+11044,2013,16,San Diego Chargers,SDG,Oakland Raiders,OAK,LAC,-9.0,51.0
+11046,2013,16,St. Louis Rams,STL,Tampa Bay Buccaneers,TAM,LAR,-3.5,43.0
+11048,2013,16,San Francisco 49ers,SFO,Atlanta Falcons,ATL,SF,-14.5,46.0
+11051,2013,17,Chicago Bears,CHI,Green Bay Packers,GNB,GB,-3.0,51.5
+11057,2013,17,New England Patriots,NWE,Buffalo Bills,BUF,NE,-7.0,46.0
+11058,2013,17,New Orleans Saints,NOR,Tampa Bay Buccaneers,TAM,NO,-10.5,46.5
+11062,2013,17,San Diego Chargers,SDG,Kansas City Chiefs,KAN,LAC,-14.5,45.0
+11077,2014,1,Atlanta Falcons,ATL,New Orleans Saints,NOR,NO,-3.0,52.0
+11080,2014,1,Dallas Cowboys,DAL,San Francisco 49ers,SFO,SF,-3.5,51.0
+11083,2014,1,Kansas City Chiefs,KAN,Tennessee Titans,TEN,KC,-3.0,44.0
+11084,2014,1,Miami Dolphins,MIA,New England Patriots,NWE,NE,-3.5,46.5
+11088,2014,1,St. Louis Rams,STL,Minnesota Vikings,MIN,LAR,-3.0,43.0
+11089,2014,1,Tampa Bay Buccaneers,TAM,Carolina Panthers,CAR,TB,-5.5,37.5
+11096,2014,2,Cleveland Browns,CLE,New Orleans Saints,NOR,NO,-4.5,49.5
+11098,2014,2,Green Bay Packers,GNB,New York Jets,NYJ,GB,-7.0,46.5
+11099,2014,2,Minnesota Vikings,MIN,New England Patriots,NWE,NE,-3.5,49.0
+11103,2014,2,San Francisco 49ers,SFO,Chicago Bears,CHI,SF,-7.0,47.5
+11104,2014,2,Tampa Bay Buccaneers,TAM,St. Louis Rams,STL,TB,-4.0,37.5
+11109,2014,3,Arizona Cardinals,ARI,San Francisco 49ers,SFO,SF,-3.0,41.0
+11117,2014,3,New England Patriots,NWE,Oakland Raiders,OAK,NE,-14.0,47.0
+11118,2014,3,New Orleans Saints,NOR,Minnesota Vikings,MIN,NO,-10.0,49.5
+11126,2014,4,Chicago Bears,CHI,Green Bay Packers,GNB,GB,-2.0,51.0
+11127,2014,4,Dallas Cowboys,DAL,New Orleans Saints,NOR,NO,-3.0,54.0
+11134,2014,4,San Diego Chargers,SDG,Jacksonville Jaguars,JAX,LAC,-13.0,44.5
+11135,2014,4,San Francisco 49ers,SFO,Philadelphia Eagles,PHI,SF,-3.5,49.5
+11136,2014,4,Kansas City Chiefs,KAN,New England Patriots,NWE,NE,-3.0,45.5
+11137,2014,5,Green Bay Packers,GNB,Minnesota Vikings,MIN,GB,-8.5,46.5
+11145,2014,5,New Orleans Saints,NOR,Tampa Bay Buccaneers,TAM,NO,-11.0,48.0
+11148,2014,5,San Diego Chargers,SDG,New York Jets,NYJ,LAC,-7.0,44.5
+11149,2014,5,San Francisco 49ers,SFO,Kansas City Chiefs,KAN,SF,-4.0,43.5
+11158,2014,6,Miami Dolphins,MIA,Green Bay Packers,GNB,GB,-1.5,47.0
+11161,2014,6,Oakland Raiders,OAK,San Diego Chargers,SDG,LAC,-7.0,44.0
+11166,2014,6,St. Louis Rams,STL,San Francisco 49ers,SFO,SF,-3.5,44.5
+11167,2014,7,New England Patriots,NWE,New York Jets,NYJ,NE,-9.5,44.5
+11174,2014,7,Green Bay Packers,GNB,Carolina Panthers,CAR,GB,-6.5,49.5
+11178,2014,7,San Diego Chargers,SDG,Kansas City Chiefs,KAN,LAC,-3.0,46.0
+11189,2014,8,Kansas City Chiefs,KAN,St. Louis Rams,STL,KC,-7.5,44.0
+11190,2014,8,New England Patriots,NWE,Chicago Bears,CHI,NE,-6.0,52.0
+11191,2014,8,New Orleans Saints,NOR,Green Bay Packers,GNB,NO,-2.0,55.5
+11194,2014,8,Tampa Bay Buccaneers,TAM,Minnesota Vikings,MIN,TB,-1.0,43.0
+11197,2014,9,Carolina Panthers,CAR,New Orleans Saints,NOR,NO,-3.0,49.0
+11202,2014,9,Kansas City Chiefs,KAN,New York Jets,NYJ,KC,-9.5,41.5
+11207,2014,9,San Francisco 49ers,SFO,St. Louis Rams,STL,SF,-10.5,44.0
+11215,2014,10,Green Bay Packers,GNB,Chicago Bears,CHI,GB,-9.5,54.0
+11217,2014,10,New Orleans Saints,NOR,San Francisco 49ers,SFO,NO,-6.0,49.5
+11228,2014,11,Green Bay Packers,GNB,Philadelphia Eagles,PHI,GB,-4.5,55.5
+11231,2014,11,New Orleans Saints,NOR,Cincinnati Bengals,CIN,NO,-8.5,51.5
+11232,2014,11,New York Giants,NYG,San Francisco 49ers,SFO,SF,-4.0,45.0
+11233,2014,11,San Diego Chargers,SDG,Oakland Raiders,OAK,LAC,-10.5,45.5
+11237,2014,12,Oakland Raiders,OAK,Kansas City Chiefs,KAN,KC,-7.5,42.0
+11243,2014,12,Minnesota Vikings,MIN,Green Bay Packers,GNB,GB,-7.5,49.5
+11244,2014,12,New England Patriots,NWE,Detroit Lions,DET,NE,-7.5,47.5
+11247,2014,12,San Diego Chargers,SDG,St. Louis Rams,STL,LAC,-4.0,43.5
+11248,2014,12,San Francisco 49ers,SFO,Washington Redskins,WAS,SF,-9.0,44.0
+11251,2014,12,New Orleans Saints,NOR,Baltimore Ravens,BAL,NO,-2.5,50.5
+11254,2014,13,San Francisco 49ers,SFO,Seattle Seahawks,SEA,SF,-1.0,40.5
+11258,2014,13,Green Bay Packers,GNB,New England Patriots,NWE,GB,-3.0,58.0
+11262,2014,13,Kansas City Chiefs,KAN,Denver Broncos,DEN,KC,-1.0,49.5
+11265,2014,13,St. Louis Rams,STL,Oakland Raiders,OAK,LAR,-6.5,43.0
+11269,2014,14,Arizona Cardinals,ARI,Kansas City Chiefs,KAN,KC,-2.5,41.0
+11277,2014,14,New Orleans Saints,NOR,Carolina Panthers,CAR,NO,-8.5,50.5
+11278,2014,14,Oakland Raiders,OAK,San Francisco 49ers,SFO,SF,-8.0,40.5
+11280,2014,14,San Diego Chargers,SDG,New England Patriots,NWE,NE,-4.0,54.0
+11282,2014,14,Washington Redskins,WAS,St. Louis Rams,STL,LAR,-2.5,44.5
+11283,2014,14,Green Bay Packers,GNB,Atlanta Falcons,ATL,GB,-13.5,55.0
+11284,2014,15,St. Louis Rams,STL,Arizona Cardinals,ARI,LAR,-6.0,40.5
+11287,2014,15,Buffalo Bills,BUF,Green Bay Packers,GNB,GB,-3.5,50.0
+11292,2014,15,Kansas City Chiefs,KAN,Oakland Raiders,OAK,KC,-11.0,41.5
+11293,2014,15,New England Patriots,NWE,Miami Dolphins,MIA,NE,-9.5,48.0
+11299,2014,15,Chicago Bears,CHI,New Orleans Saints,NOR,NO,-3.0,53.5
+11301,2014,16,San Francisco 49ers,SFO,San Diego Chargers,SDG,SF,-2.0,40.5
+11309,2014,16,New Orleans Saints,NOR,Atlanta Falcons,ATL,NO,-6.0,56.0
+11310,2014,16,New York Jets,NYJ,New England Patriots,NWE,NE,-10.0,47.0
+11313,2014,16,St. Louis Rams,STL,New York Giants,NYG,LAR,-7.0,43.5
+11314,2014,16,Tampa Bay Buccaneers,TAM,Green Bay Packers,GNB,GB,-11.5,49.0
+11319,2014,17,Green Bay Packers,GNB,Detroit Lions,DET,GB,-9.0,47.0
+11321,2014,17,Kansas City Chiefs,KAN,San Diego Chargers,SDG,KC,-3.0,42.0
+11324,2014,17,New England Patriots,NWE,Buffalo Bills,BUF,NE,-4.5,43.5
+11327,2014,17,San Francisco 49ers,SFO,Arizona Cardinals,ARI,SF,-6.0,37.5
+11329,2014,17,Tampa Bay Buccaneers,TAM,New Orleans Saints,NOR,NO,-6.0,46.5
+11343,2015,1,New England Patriots,NWE,Pittsburgh Steelers,PIT,NE,-7.0,51.0
+11346,2015,1,Chicago Bears,CHI,Green Bay Packers,GNB,GB,-6.5,48.5
+11349,2015,1,Houston Texans,HOU,Kansas City Chiefs,KAN,KC,-1.0,40.5
+11352,2015,1,Oakland Raiders,OAK,Cincinnati Bengals,CIN,LVR,-3.0,43.0
+11353,2015,1,San Diego Chargers,SDG,Detroit Lions,DET,LAC,-3.5,45.5
+11355,2015,1,Tampa Bay Buccaneers,TAM,Tennessee Titans,TEN,TB,-3.0,40.5
+11359,2015,2,Kansas City Chiefs,KAN,Denver Broncos,DEN,KC,-3.0,42.0
+11365,2015,2,Green Bay Packers,GNB,Seattle Seahawks,SEA,GB,-3.0,49.5
+11368,2015,2,New Orleans Saints,NOR,Tampa Bay Buccaneers,TAM,NO,-9.0,47.0
+11373,2015,2,Washington Redskins,WAS,St. Louis Rams,STL,LAR,-3.0,41.0
+11380,2015,3,Dallas Cowboys,DAL,Atlanta Falcons,ATL,PICK,0.0,43.5
+11385,2015,3,New England Patriots,NWE,Jacksonville Jaguars,JAX,NE,-14.0,49.0
+11388,2015,3,St. Louis Rams,STL,Pittsburgh Steelers,PIT,LAR,-1.0,48.5
+11390,2015,3,Green Bay Packers,GNB,Kansas City Chiefs,KAN,GB,-5.5,47.5
+11395,2015,4,Chicago Bears,CHI,Oakland Raiders,OAK,LVR,-3.0,44.5
+11400,2015,4,New Orleans Saints,NOR,Dallas Cowboys,DAL,NO,-3.0,48.5
+11401,2015,4,San Diego Chargers,SDG,Cleveland Browns,CLE,LAC,-5.0,44.5
+11402,2015,4,San Francisco 49ers,SFO,Green Bay Packers,GNB,GB,-7.5,48.0
+11410,2015,5,Dallas Cowboys,DAL,New England Patriots,NWE,NE,-8.5,50.5
+11412,2015,5,Green Bay Packers,GNB,St. Louis Rams,STL,GB,-9.0,46.0
+11413,2015,5,Kansas City Chiefs,KAN,Chicago Bears,CHI,KC,-9.5,44.5
+11417,2015,5,Tampa Bay Buccaneers,TAM,Jacksonville Jaguars,JAX,TB,-1.0,41.5
+11419,2015,5,San Diego Chargers,SDG,Pittsburgh Steelers,PIT,LAC,-4.0,45.5
+11424,2015,6,Green Bay Packers,GNB,San Diego Chargers,SDG,GB,-10.5,50.5
+11425,2015,6,Indianapolis Colts,IND,New England Patriots,NWE,NE,-9.0,54.0
+11439,2015,7,Kansas City Chiefs,KAN,Pittsburgh Steelers,PIT,KC,-3.5,41.5
+11441,2015,7,New England Patriots,NWE,New York Jets,NYJ,NE,-7.0,47.5
+11443,2015,7,San Diego Chargers,SDG,Oakland Raiders,OAK,LAC,-3.5,48.5
+11444,2015,7,St. Louis Rams,STL,Cleveland Browns,CLE,LAR,-6.0,44.0
+11448,2015,8,New England Patriots,NWE,Miami Dolphins,MIA,NE,-8.0,51.5
+11454,2015,8,Denver Broncos,DEN,Green Bay Packers,GNB,GB,-2.5,45.5
+11457,2015,8,New Orleans Saints,NOR,New York Giants,NYG,NO,-3.0,52.0
+11459,2015,8,Pittsburgh Steelers,PIT,Cincinnati Bengals,CIN,PICK,0.0,49.5
+11460,2015,8,St. Louis Rams,STL,San Francisco 49ers,SFO,LAR,-8.0,41.0
+11464,2015,9,Carolina Panthers,CAR,Green Bay Packers,GNB,GB,-2.5,46.0
+11468,2015,9,New England Patriots,NWE,Washington Redskins,WAS,NE,-13.5,51.5
+11469,2015,9,New Orleans Saints,NOR,Tennessee Titans,TEN,NO,-6.5,50.0
+11474,2015,9,San Diego Chargers,SDG,Chicago Bears,CHI,LAC,-3.5,49.5
+11478,2015,10,Green Bay Packers,GNB,Detroit Lions,DET,GB,-10.5,50.0
+11479,2015,10,New York Giants,NYG,New England Patriots,NWE,NE,-7.0,52.5
+11480,2015,10,Oakland Raiders,OAK,Minnesota Vikings,MIN,LVR,-3.0,44.0
+11484,2015,10,St. Louis Rams,STL,Chicago Bears,CHI,LAR,-7.0,42.5
+11487,2015,10,Washington Redskins,WAS,New Orleans Saints,NOR,NO,-1.0,52.0
+11495,2015,11,Detroit Lions,DET,Oakland Raiders,OAK,LVR,-1.5,50.0
+11498,2015,11,Minnesota Vikings,MIN,Green Bay Packers,GNB,PICK,0.0,45.0
+11500,2015,11,San Diego Chargers,SDG,Kansas City Chiefs,KAN,KC,-3.0,45.5
+11502,2015,11,New England Patriots,NWE,Buffalo Bills,BUF,NE,-7.0,47.5
+11505,2015,12,Green Bay Packers,GNB,Chicago Bears,CHI,GB,-8.0,45.0
+11508,2015,12,Denver Broncos,DEN,New England Patriots,NWE,NE,-2.5,43.0
+11512,2015,12,Kansas City Chiefs,KAN,Buffalo Bills,BUF,KC,-4.5,41.0
+11516,2015,12,Tennessee Titans,TEN,Oakland Raiders,OAK,LVR,-1.0,45.0
+11519,2015,13,Detroit Lions,DET,Green Bay Packers,GNB,GB,-2.5,46.5
+11525,2015,13,New England Patriots,NWE,Philadelphia Eagles,PHI,NE,-9.5,49.0
+11528,2015,13,Oakland Raiders,OAK,Kansas City Chiefs,KAN,KC,-3.0,45.5
+11532,2015,13,Tampa Bay Buccaneers,TAM,Atlanta Falcons,ATL,PICK,0.0,46.5
+11542,2015,14,Green Bay Packers,GNB,Dallas Cowboys,DAL,GB,-6.5,42.5
+11543,2015,14,Houston Texans,HOU,New England Patriots,NWE,NE,-5.0,46.5
+11545,2015,14,Kansas City Chiefs,KAN,San Diego Chargers,SDG,KC,-12.0,41.5
+11549,2015,14,Tampa Bay Buccaneers,TAM,New Orleans Saints,NOR,TB,-6.0,51.5
+11551,2015,15,St. Louis Rams,STL,Tampa Bay Buccaneers,TAM,LAR,-1.0,41.0
+11553,2015,15,Baltimore Ravens,BAL,Kansas City Chiefs,KAN,KC,-6.5,41.0
+11557,2015,15,New England Patriots,NWE,Tennessee Titans,TEN,NE,-14.5,48.0
+11559,2015,15,Oakland Raiders,OAK,Green Bay Packers,GNB,GB,-4.0,47.0
+11562,2015,15,San Diego Chargers,SDG,Miami Dolphins,MIA,LAC,-1.0,47.0
+11566,2015,15,New Orleans Saints,NOR,Detroit Lions,DET,NO,-2.5,52.0
+11567,2015,16,Oakland Raiders,OAK,San Diego Chargers,SDG,LVR,-4.0,45.5
+11574,2015,16,Kansas City Chiefs,KAN,Cleveland Browns,CLE,KC,-11.5,42.5
+11577,2015,16,New Orleans Saints,NOR,Jacksonville Jaguars,JAX,NO,-2.5,53.5
+11578,2015,16,New York Jets,NYJ,New England Patriots,NWE,NE,-2.5,45.5
+11580,2015,16,Tampa Bay Buccaneers,TAM,Chicago Bears,CHI,TB,-3.0,44.0
+11592,2015,17,Green Bay Packers,GNB,Minnesota Vikings,MIN,GB,-3.0,44.0
+11595,2015,17,Kansas City Chiefs,KAN,Oakland Raiders,OAK,KC,-6.5,43.5
+11596,2015,17,Miami Dolphins,MIA,New England Patriots,NWE,NE,-10.0,46.5
+11598,2015,17,San Francisco 49ers,SFO,St. Louis Rams,STL,LAR,-3.0,38.5
+11617,2016,1,Jacksonville Jaguars,JAX,Green Bay Packers,GNB,GB,-3.5,47.5
+11618,2016,1,Kansas City Chiefs,KAN,San Diego Chargers,SDG,KC,-6.5,46.0
+11619,2016,1,New Orleans Saints,NOR,Oakland Raiders,OAK,NO,-3.0,50.5
+11626,2016,2,Buffalo Bills,BUF,New York Jets,NYJ,PICK,0.0,40.5
+11634,2016,2,Minnesota Vikings,MIN,Green Bay Packers,GNB,GB,-2.0,43.0
+11635,2016,2,New England Patriots,NWE,Miami Dolphins,MIA,NE,-5.5,42.0
+11637,2016,2,Oakland Raiders,OAK,Atlanta Falcons,ATL,LVR,-4.0,48.0
+11639,2016,2,San Diego Chargers,SDG,Jacksonville Jaguars,JAX,LAC,-3.0,47.5
+11642,2016,3,New England Patriots,NWE,Houston Texans,HOU,NE,-1.0,38.5
+11647,2016,3,Green Bay Packers,GNB,Detroit Lions,DET,GB,-6.5,47.5
+11650,2016,3,Kansas City Chiefs,KAN,New York Jets,NYJ,KC,-3.0,44.5
+11655,2016,3,Tampa Bay Buccaneers,TAM,Los Angeles Rams,LAR,TB,-3.5,40.5
+11656,2016,3,Tennessee Titans,TEN,Oakland Raiders,OAK,LVR,-1.5,47.0
+11657,2016,3,New Orleans Saints,NOR,Atlanta Falcons,ATL,NO,-3.0,54.5
+11665,2016,4,New England Patriots,NWE,Buffalo Bills,BUF,NE,-3.5,41.0
+11668,2016,4,San Diego Chargers,SDG,New Orleans Saints,NOR,LAC,-3.5,54.0
+11675,2016,5,Cleveland Browns,CLE,New England Patriots,NWE,NE,-10.0,47.5
+11679,2016,5,Green Bay Packers,GNB,New York Giants,NYG,GB,-7.0,49.0
+11684,2016,5,Oakland Raiders,OAK,San Diego Chargers,SDG,LVR,-3.5,50.5
+11691,2016,6,Green Bay Packers,GNB,Dallas Cowboys,DAL,GB,-5.0,47.0
+11694,2016,6,New England Patriots,NWE,Cincinnati Bengals,CIN,NE,-7.5,48.0
+11697,2016,6,Oakland Raiders,OAK,Kansas City Chiefs,KAN,KC,-1.0,46.5
+11702,2016,7,Green Bay Packers,GNB,Chicago Bears,CHI,GB,-7.5,46.5
+11708,2016,7,Kansas City Chiefs,KAN,New Orleans Saints,NOR,KC,-7.0,51.5
+11713,2016,7,Pittsburgh Steelers,PIT,New England Patriots,NWE,NE,-7.5,49.0
+11714,2016,7,San Francisco 49ers,SFO,Tampa Bay Buccaneers,TAM,SF,-1.0,45.0
+11719,2016,8,Buffalo Bills,BUF,New England Patriots,NWE,NE,-5.5,48.0
+11726,2016,8,Indianapolis Colts,IND,Kansas City Chiefs,KAN,KC,-3.0,50.5
+11728,2016,8,Tampa Bay Buccaneers,TAM,Oakland Raiders,OAK,TB,-1.0,48.0
+11733,2016,9,Green Bay Packers,GNB,Indianapolis Colts,IND,GB,-7.5,52.0
+11734,2016,9,Kansas City Chiefs,KAN,Jacksonville Jaguars,JAX,KC,-7.0,42.5
+11739,2016,9,Oakland Raiders,OAK,Denver Broncos,DEN,LVR,-1.0,44.5
+11740,2016,9,San Diego Chargers,SDG,Tennessee Titans,TEN,LAC,-3.5,47.5
+11741,2016,9,San Francisco 49ers,SFO,New Orleans Saints,NOR,NO,-5.0,53.0
+11747,2016,10,New England Patriots,NWE,Seattle Seahawks,SEA,NE,-7.5,49.5
+11748,2016,10,New Orleans Saints,NOR,Denver Broncos,DEN,NO,-3.0,50.0
+11752,2016,10,San Diego Chargers,SDG,Miami Dolphins,MIA,LAC,-4.5,49.0
+11754,2016,10,Tennessee Titans,TEN,Green Bay Packers,GNB,GB,-3.0,49.0
+11756,2016,10,New York Giants,NYG,Cincinnati Bengals,CIN,PICK,0.0,49.5
+11763,2016,11,Kansas City Chiefs,KAN,Tampa Bay Buccaneers,TAM,KC,-7.0,45.0
+11767,2016,11,San Francisco 49ers,SFO,New England Patriots,NWE,NE,-11.5,51.5
+11770,2016,11,Oakland Raiders,OAK,Houston Texans,HOU,LVR,-6.5,46.0
+11780,2016,12,Houston Texans,HOU,San Diego Chargers,SDG,LAC,-2.5,46.0
+11782,2016,12,New Orleans Saints,NOR,Los Angeles Rams,LAR,NO,-8.0,45.0
+11783,2016,12,New York Jets,NYJ,New England Patriots,NWE,NE,-9.5,48.5
+11784,2016,12,Oakland Raiders,OAK,Carolina Panthers,CAR,LVR,-3.5,48.5
+11791,2016,13,Chicago Bears,CHI,San Francisco 49ers,SFO,SF,-1.0,44.0
+11793,2016,13,Green Bay Packers,GNB,Houston Texans,HOU,GB,-7.0,44.5
+11795,2016,13,New England Patriots,NWE,Los Angeles Rams,LAR,NE,-13.5,45.0
+11796,2016,13,New Orleans Saints,NOR,Detroit Lions,DET,NO,-6.5,53.5
+11797,2016,13,Oakland Raiders,OAK,Buffalo Bills,BUF,LVR,-3.0,48.5
+11799,2016,13,San Diego Chargers,SDG,Tampa Bay Buccaneers,TAM,LAC,-3.5,49.0
+11802,2016,14,Kansas City Chiefs,KAN,Oakland Raiders,OAK,KC,-3.5,46.0
+11814,2016,14,San Francisco 49ers,SFO,New York Jets,NYJ,SF,-3.0,43.0
+11815,2016,14,Tampa Bay Buccaneers,TAM,New Orleans Saints,NOR,TB,-2.0,52.0
+11817,2016,14,New England Patriots,NWE,Baltimore Ravens,BAL,NE,-6.0,45.0
+11824,2016,15,Chicago Bears,CHI,Green Bay Packers,GNB,GB,-4.5,40.0
+11827,2016,15,Denver Broncos,DEN,New England Patriots,NWE,NE,-3.0,43.0
+11829,2016,15,Kansas City Chiefs,KAN,Tennessee Titans,TEN,KC,-6.0,43.0
+11832,2016,15,San Diego Chargers,SDG,Oakland Raiders,OAK,LVR,-2.5,49.5
+11838,2016,16,Cleveland Browns,CLE,San Diego Chargers,SDG,LAC,-4.5,45.0
+11839,2016,16,Green Bay Packers,GNB,Minnesota Vikings,MIN,GB,-6.0,44.5
+11843,2016,16,New England Patriots,NWE,New York Jets,NYJ,NE,-17.0,45.0
+11844,2016,16,New Orleans Saints,NOR,Tampa Bay Buccaneers,TAM,NO,-3.0,53.0
+11845,2016,16,Oakland Raiders,OAK,Indianapolis Colts,IND,LVR,-3.5,52.0
+11847,2016,16,Kansas City Chiefs,KAN,Denver Broncos,DEN,KC,-3.5,38.0
+11853,2016,17,Detroit Lions,DET,Green Bay Packers,GNB,GB,-3.5,50.0
+11856,2016,17,Miami Dolphins,MIA,New England Patriots,NWE,NE,-7.5,47.0
+11861,2016,17,San Diego Chargers,SDG,Kansas City Chiefs,KAN,KC,-5.5,45.0
+11863,2016,17,Tampa Bay Buccaneers,TAM,Carolina Panthers,CAR,TB,-3.0,44.5
+11877,2017,1,New England Patriots,NWE,Kansas City Chiefs,KAN,NE,-9.0,48.5
+11884,2017,1,Green Bay Packers,GNB,Seattle Seahawks,SEA,GB,-3.0,50.5
+11899,2017,2,Kansas City Chiefs,KAN,Philadelphia Eagles,PHI,KC,-4.5,47.5
+11902,2017,2,New Orleans Saints,NOR,New England Patriots,NWE,NE,-7.0,55.0
+11903,2017,2,Oakland Raiders,OAK,New York Jets,NYJ,LVR,-14.0,43.5
+11906,2017,2,Tampa Bay Buccaneers,TAM,Chicago Bears,CHI,TB,-7.0,43.0
+11913,2017,3,Green Bay Packers,GNB,Cincinnati Bengals,CIN,GB,-9.0,47.5
+11916,2017,3,Los Angeles Chargers,LAC,Kansas City Chiefs,KAN,KC,-3.0,47.5
+11917,2017,3,Minnesota Vikings,MIN,Tampa Bay Buccaneers,TAM,TB,-1.5,41.0
+11918,2017,3,New England Patriots,NWE,Houston Texans,HOU,NE,-13.0,44.5
+11922,2017,3,Washington Redskins,WAS,Oakland Raiders,OAK,LVR,-3.0,53.5
+11924,2017,4,Green Bay Packers,GNB,Chicago Bears,CHI,GB,-7.5,44.5
+11933,2017,4,Miami Dolphins,MIA,New Orleans Saints,NOR,NO,-3.0,50.5
+11935,2017,4,New England Patriots,NWE,Carolina Panthers,CAR,NE,-9.0,49.0
+11938,2017,4,Tampa Bay Buccaneers,TAM,New York Giants,NYG,TB,-3.0,44.5
+11939,2017,4,Kansas City Chiefs,KAN,Washington Redskins,WAS,KC,-7.0,49.5
+11940,2017,5,Tampa Bay Buccaneers,TAM,New England Patriots,NWE,NE,-5.0,55.5
+11945,2017,5,Houston Texans,HOU,Kansas City Chiefs,KAN,KC,-1.0,46.5
+11950,2017,5,Oakland Raiders,OAK,Baltimore Ravens,BAL,LVR,-2.5,39.0
+11955,2017,6,Arizona Cardinals,ARI,Tampa Bay Buccaneers,TAM,TB,-1.5,46.0
+11961,2017,6,Kansas City Chiefs,KAN,Pittsburgh Steelers,PIT,KC,-3.5,47.0
+11962,2017,6,Minnesota Vikings,MIN,Green Bay Packers,GNB,GB,-3.0,44.5
+11963,2017,6,New Orleans Saints,NOR,Detroit Lions,DET,NO,-4.0,49.5
+11964,2017,6,New York Jets,NYJ,New England Patriots,NWE,NE,-9.0,48.5
+11965,2017,6,Oakland Raiders,OAK,Los Angeles Chargers,LAC,LVR,-3.0,48.5
+11968,2017,7,Oakland Raiders,OAK,Kansas City Chiefs,KAN,KC,-3.0,46.5
+11972,2017,7,Green Bay Packers,GNB,New Orleans Saints,NOR,NO,-3.5,46.0
+11978,2017,7,New England Patriots,NWE,Atlanta Falcons,ATL,NE,-3.0,56.5
+11988,2017,8,New England Patriots,NWE,Los Angeles Chargers,LAC,NE,-7.0,48.5
+11989,2017,8,New Orleans Saints,NOR,Chicago Bears,CHI,NO,-9.0,47.5
+11993,2017,8,Tampa Bay Buccaneers,TAM,Carolina Panthers,CAR,TB,-2.0,46.0
+11995,2017,8,Kansas City Chiefs,KAN,Denver Broncos,DEN,KC,-7.0,43.0
+12001,2017,9,Miami Dolphins,MIA,Oakland Raiders,OAK,LVR,-3.0,44.5
+12002,2017,9,New Orleans Saints,NOR,Tampa Bay Buccaneers,TAM,NO,-7.0,54.0
+12011,2017,10,Buffalo Bills,BUF,New Orleans Saints,NOR,NO,-2.0,48.5
+12013,2017,10,Denver Broncos,DEN,New England Patriots,NWE,NE,-7.0,45.0
+12019,2017,10,Tampa Bay Buccaneers,TAM,New York Jets,NYJ,TB,-1.0,44.5
+12031,2017,11,Miami Dolphins,MIA,Tampa Bay Buccaneers,TAM,TB,-1.0,42.0
+12033,2017,11,New Orleans Saints,NOR,Washington Redskins,WAS,NO,-7.5,52.5
+12034,2017,11,New York Giants,NYG,Kansas City Chiefs,KAN,KC,-10.0,45.5
+12035,2017,11,Oakland Raiders,OAK,New England Patriots,NWE,NE,-7.0,54.5
+12044,2017,12,Kansas City Chiefs,KAN,Buffalo Bills,BUF,KC,-10.0,46.0
+12046,2017,12,New England Patriots,NWE,Miami Dolphins,MIA,NE,-16.5,47.5
+12048,2017,12,Oakland Raiders,OAK,Denver Broncos,DEN,LVR,-5.0,43.5
+12057,2017,13,Buffalo Bills,BUF,New England Patriots,NWE,NE,-9.0,48.0
+12059,2017,13,Green Bay Packers,GNB,Tampa Bay Buccaneers,TAM,GB,-2.0,45.0
+12063,2017,13,New Orleans Saints,NOR,Carolina Panthers,CAR,NO,-4.5,48.0
+12064,2017,13,New York Jets,NYJ,Kansas City Chiefs,KAN,KC,-3.0,43.5
+12065,2017,13,Oakland Raiders,OAK,New York Giants,NYG,LVR,-9.0,41.5
+12074,2017,14,Cleveland Browns,CLE,Green Bay Packers,GNB,GB,-2.5,38.5
+12078,2017,14,Kansas City Chiefs,KAN,Oakland Raiders,OAK,KC,-4.5,48.5
+12083,2017,14,Tampa Bay Buccaneers,TAM,Detroit Lions,DET,PICK,0.0,47.5
+12084,2017,14,Miami Dolphins,MIA,New England Patriots,NWE,NE,-10.5,48.0
+12093,2017,15,New Orleans Saints,NOR,New York Jets,NYJ,NO,-16.5,47.0
+12096,2017,15,Pittsburgh Steelers,PIT,New England Patriots,NWE,NE,-2.5,52.5
+12097,2017,15,San Francisco 49ers,SFO,Tennessee Titans,TEN,SF,-2.5,44.5
+12108,2017,16,Kansas City Chiefs,KAN,Miami Dolphins,MIA,KC,-11.0,43.5
+12109,2017,16,New England Patriots,NWE,Buffalo Bills,BUF,NE,-11.0,47.5
+12110,2017,16,New Orleans Saints,NOR,Atlanta Falcons,ATL,NO,-5.5,52.0
+12123,2017,17,Los Angeles Rams,LAR,San Francisco 49ers,SFO,SF,-6.0,44.5
+12126,2017,17,New England Patriots,NWE,New York Jets,NYJ,NE,-17.0,43.5
+12131,2017,17,Tampa Bay Buccaneers,TAM,New Orleans Saints,NOR,NO,-6.0,49.0
+12150,2018,1,Green Bay Packers,GNB,Chicago Bears,CHI,GB,-6.5,45.0
+12155,2018,1,New England Patriots,NWE,Houston Texans,HOU,NE,-6.0,49.5
+12156,2018,1,New Orleans Saints,NOR,Tampa Bay Buccaneers,TAM,NO,-10.0,50.0
+12166,2018,2,Jacksonville Jaguars,JAX,New England Patriots,NWE,NE,-2.0,44.5
+12168,2018,2,New Orleans Saints,NOR,Cleveland Browns,CLE,NO,-10.0,51.0
+12171,2018,2,San Francisco 49ers,SFO,Detroit Lions,DET,SF,-6.0,48.5
+12181,2018,3,Detroit Lions,DET,New England Patriots,NWE,NE,-7.0,55.0
+12184,2018,3,Kansas City Chiefs,KAN,San Francisco 49ers,SFO,KC,-5.5,53.0
+12190,2018,3,Washington Redskins,WAS,Green Bay Packers,GNB,GB,-2.5,45.5
+12197,2018,4,Green Bay Packers,GNB,Buffalo Bills,BUF,GB,-8.5,43.5
+12201,2018,4,New England Patriots,NWE,Miami Dolphins,MIA,NE,-6.5,50.5
+12202,2018,4,New York Giants,NYG,New Orleans Saints,NOR,NO,-3.5,51.5
+12203,2018,4,Oakland Raiders,OAK,Cleveland Browns,CLE,LVR,-2.5,44.5
+12206,2018,4,Denver Broncos,DEN,Kansas City Chiefs,KAN,KC,-3.5,53.5
+12207,2018,5,New England Patriots,NWE,Indianapolis Colts,IND,NE,-10.5,49.5
+12212,2018,5,Detroit Lions,DET,Green Bay Packers,GNB,GB,-1.0,50.0
+12214,2018,5,Kansas City Chiefs,KAN,Jacksonville Jaguars,JAX,KC,-3.0,48.0
+12219,2018,5,San Francisco 49ers,SFO,Arizona Cardinals,ARI,SF,-3.0,40.5
+12221,2018,5,New Orleans Saints,NOR,Washington Redskins,WAS,NO,-5.5,51.5
+12231,2018,6,New England Patriots,NWE,Kansas City Chiefs,KAN,NE,-3.5,59.5
+12236,2018,6,Green Bay Packers,GNB,San Francisco 49ers,SFO,GB,-9.0,46.5
+12239,2018,7,Chicago Bears,CHI,New England Patriots,NWE,NE,-1.0,48.5
+12242,2018,7,Kansas City Chiefs,KAN,Cincinnati Bengals,CIN,KC,-6.5,56.0
+12248,2018,7,Tampa Bay Buccaneers,TAM,Cleveland Browns,CLE,TB,-3.5,52.5
+12258,2018,8,Kansas City Chiefs,KAN,Denver Broncos,DEN,KC,-8.5,53.0
+12264,2018,8,Buffalo Bills,BUF,New England Patriots,NWE,NE,-13.5,44.5
+12265,2018,9,San Francisco 49ers,SFO,Oakland Raiders,OAK,LVR,-1.5,44.0
+12269,2018,9,Cleveland Browns,CLE,Kansas City Chiefs,KAN,KC,-7.5,51.5
+12273,2018,9,New England Patriots,NWE,Green Bay Packers,GNB,NE,-5.0,56.0
+12280,2018,10,Cincinnati Bengals,CIN,New Orleans Saints,NOR,NO,-6.0,53.5
+12282,2018,10,Green Bay Packers,GNB,Miami Dolphins,MIA,GB,-11.0,48.5
+12284,2018,10,Kansas City Chiefs,KAN,Arizona Cardinals,ARI,KC,-16.5,49.5
+12289,2018,10,Tampa Bay Buccaneers,TAM,Washington Redskins,WAS,TB,-3.5,51.0
+12290,2018,10,Tennessee Titans,TEN,New England Patriots,NWE,NE,-6.5,47.0
+12291,2018,10,San Francisco 49ers,SFO,New York Giants,NYG,SF,-3.0,45.0
+12301,2018,11,New Orleans Saints,NOR,Philadelphia Eagles,PHI,NO,-7.0,56.5
+12307,2018,12,New Orleans Saints,NOR,Atlanta Falcons,ATL,NO,-11.5,61.5
+12316,2018,12,New York Jets,NYJ,New England Patriots,NWE,NE,-13.0,46.5
+12318,2018,12,Tampa Bay Buccaneers,TAM,San Francisco 49ers,SFO,TB,-1.5,54.5
+12320,2018,13,Dallas Cowboys,DAL,New Orleans Saints,NOR,NO,-7.5,51.5
+12324,2018,13,Green Bay Packers,GNB,Arizona Cardinals,ARI,GB,-13.5,41.0
+12328,2018,13,New England Patriots,NWE,Minnesota Vikings,MIN,NE,-6.0,49.5
+12330,2018,13,Oakland Raiders,OAK,Kansas City Chiefs,KAN,KC,-14.0,53.5
+12342,2018,14,Green Bay Packers,GNB,Atlanta Falcons,ATL,GB,-4.0,50.5
+12344,2018,14,Kansas City Chiefs,KAN,Baltimore Ravens,BAL,KC,-6.5,48.5
+12346,2018,14,Miami Dolphins,MIA,New England Patriots,NWE,NE,-9.5,49.5
+12349,2018,14,Tampa Bay Buccaneers,TAM,New Orleans Saints,NOR,NO,-10.0,54.0
+12352,2018,15,Kansas City Chiefs,KAN,Los Angeles Chargers,LAC,KC,-3.5,54.0
+12365,2018,15,Pittsburgh Steelers,PIT,New England Patriots,NWE,NE,-2.5,56.0
+12367,2018,15,Carolina Panthers,CAR,New Orleans Saints,NOR,NO,-6.0,50.5
+12377,2018,16,New England Patriots,NWE,Buffalo Bills,BUF,NE,-13.5,45.0
+12378,2018,16,New Orleans Saints,NOR,Pittsburgh Steelers,PIT,NO,-6.5,53.0
+12379,2018,16,New York Jets,NYJ,Green Bay Packers,GNB,GB,-3.0,47.5
+12382,2018,16,Seattle Seahawks,SEA,Kansas City Chiefs,KAN,KC,-1.0,54.5
+12387,2018,17,Green Bay Packers,GNB,Detroit Lions,DET,GB,-7.5,44.5
+12389,2018,17,Kansas City Chiefs,KAN,Oakland Raiders,OAK,KC,-14.5,52.5
+12392,2018,17,New England Patriots,NWE,New York Jets,NYJ,NE,-14.5,46.5
+12393,2018,17,New Orleans Saints,NOR,Carolina Panthers,CAR,NO,-8.0,42.0
+12416,2019,1,Jacksonville Jaguars,JAX,Kansas City Chiefs,KAN,KC,-3.5,49.0
+12420,2019,1,New England Patriots,NWE,Pittsburgh Steelers,PIT,NE,-5.5,49.0
+12424,2019,1,Tampa Bay Buccaneers,TAM,San Francisco 49ers,SFO,TB,-1.0,51.0
+12425,2019,1,New Orleans Saints,NOR,Houston Texans,HOU,NO,-6.5,51.5
+12433,2019,2,Green Bay Packers,GNB,Minnesota Vikings,MIN,GB,-3.0,43.0
+12436,2019,2,Miami Dolphins,MIA,New England Patriots,NWE,NE,-18.0,48.5
+12438,2019,2,Oakland Raiders,OAK,Kansas City Chiefs,KAN,KC,-7.0,53.0
+12448,2019,3,Green Bay Packers,GNB,Denver Broncos,DEN,GB,-7.0,41.5
+12450,2019,3,Kansas City Chiefs,KAN,Baltimore Ravens,BAL,KC,-5.0,52.0
+12453,2019,3,New England Patriots,NWE,New York Jets,NYJ,NE,-21.0,43.0
+12455,2019,3,San Francisco 49ers,SFO,Pittsburgh Steelers,PIT,SF,-6.0,44.5
+12457,2019,3,Tampa Bay Buccaneers,TAM,New York Giants,NYG,TB,-5.0,48.0
+12459,2019,4,Green Bay Packers,GNB,Philadelphia Eagles,PHI,GB,-3.5,46.5
+12463,2019,4,Buffalo Bills,BUF,New England Patriots,NWE,NE,-7.0,41.5
+12466,2019,4,Detroit Lions,DET,Kansas City Chiefs,KAN,KC,-7.0,54.5
+12479,2019,5,Kansas City Chiefs,KAN,Indianapolis Colts,IND,KC,-10.5,55.5
+12481,2019,5,New Orleans Saints,NOR,Tampa Bay Buccaneers,TAM,NO,-3.0,46.5
+12487,2019,5,Washington Redskins,WAS,New England Patriots,NWE,NE,-16.5,41.5
+12488,2019,5,San Francisco 49ers,SFO,Cleveland Browns,CLE,SF,-4.5,48.0
+12489,2019,6,New England Patriots,NWE,New York Giants,NYG,NE,-16.5,43.0
+12495,2019,6,Kansas City Chiefs,KAN,Houston Texans,HOU,KC,-3.5,54.5
+12502,2019,6,Green Bay Packers,GNB,Detroit Lions,DET,GB,-3.5,47.0
+12503,2019,7,Denver Broncos,DEN,Kansas City Chiefs,KAN,KC,-3.0,49.5
+12510,2019,7,Green Bay Packers,GNB,Oakland Raiders,OAK,GB,-5.5,47.5
+12515,2019,7,Washington Redskins,WAS,San Francisco 49ers,SFO,SF,-10.0,39.0
+12516,2019,7,New York Jets,NYJ,New England Patriots,NWE,NE,-10.0,43.0
+12525,2019,8,Kansas City Chiefs,KAN,Green Bay Packers,GNB,GB,-5.0,47.5
+12527,2019,8,New England Patriots,NWE,Cleveland Browns,CLE,NE,-10.0,43.0
+12528,2019,8,New Orleans Saints,NOR,Arizona Cardinals,ARI,NO,-12.5,48.0
+12529,2019,8,San Francisco 49ers,SFO,Carolina Panthers,CAR,SF,-4.0,40.5
+12532,2019,9,Arizona Cardinals,ARI,San Francisco 49ers,SFO,SF,-10.0,43.0
+12533,2019,9,Baltimore Ravens,BAL,New England Patriots,NWE,NE,-3.0,44.5
+12539,2019,9,Los Angeles Chargers,LAC,Green Bay Packers,GNB,GB,-4.0,50.0
+12541,2019,9,Oakland Raiders,OAK,Detroit Lions,DET,LVR,-2.5,51.0
+12551,2019,10,Green Bay Packers,GNB,Carolina Panthers,CAR,GB,-5.0,49.0
+12553,2019,10,New Orleans Saints,NOR,Atlanta Falcons,ATL,NO,-13.5,51.5
+12556,2019,10,Tampa Bay Buccaneers,TAM,Arizona Cardinals,ARI,TB,-5.5,51.5
+12557,2019,10,Tennessee Titans,TEN,Kansas City Chiefs,KAN,KC,-6.0,49.0
+12558,2019,10,San Francisco 49ers,SFO,Seattle Seahawks,SEA,SF,-6.5,46.5
+12567,2019,11,Oakland Raiders,OAK,Cincinnati Bengals,CIN,LVR,-13.0,48.0
+12568,2019,11,Philadelphia Eagles,PHI,New England Patriots,NWE,NE,-4.5,45.0
+12569,2019,11,San Francisco 49ers,SFO,Arizona Cardinals,ARI,SF,-10.0,44.0
+12570,2019,11,Tampa Bay Buccaneers,TAM,New Orleans Saints,NOR,NO,-5.0,50.5
+12572,2019,11,Los Angeles Chargers,LAC,Kansas City Chiefs,KAN,KC,-5.5,52.5
+12579,2019,12,New England Patriots,NWE,Dallas Cowboys,DAL,NE,-5.5,44.5
+12580,2019,12,New Orleans Saints,NOR,Carolina Panthers,CAR,NO,-10.0,46.5
+12581,2019,12,New York Jets,NYJ,Oakland Raiders,OAK,LVR,-3.0,44.5
+12583,2019,12,San Francisco 49ers,SFO,Green Bay Packers,GNB,SF,-3.0,48.0
+12587,2019,13,Atlanta Falcons,ATL,New Orleans Saints,NOR,NO,-7.0,48.0
+12595,2019,13,Houston Texans,HOU,New England Patriots,NWE,NE,-3.0,47.0
+12597,2019,13,Jacksonville Jaguars,JAX,Tampa Bay Buccaneers,TAM,TB,-3.0,46.5
+12598,2019,13,Kansas City Chiefs,KAN,Oakland Raiders,OAK,KC,-10.5,49.5
+12600,2019,13,New York Giants,NYG,Green Bay Packers,GNB,GB,-6.5,43.5
+12608,2019,14,Green Bay Packers,GNB,Washington Redskins,WAS,GB,-13.0,42.0
+12613,2019,14,New England Patriots,NWE,Kansas City Chiefs,KAN,NE,-3.0,48.5
+12614,2019,14,New Orleans Saints,NOR,San Francisco 49ers,SFO,NO,-1.5,45.0
+12617,2019,14,Tampa Bay Buccaneers,TAM,Indianapolis Colts,IND,TB,-3.0,46.5
+12622,2019,15,Cincinnati Bengals,CIN,New England Patriots,NWE,NE,-10.5,41.5
+12624,2019,15,Detroit Lions,DET,Tampa Bay Buccaneers,TAM,TB,-6.0,46.0
+12625,2019,15,Green Bay Packers,GNB,Chicago Bears,CHI,GB,-4.5,41.0
+12626,2019,15,Kansas City Chiefs,KAN,Denver Broncos,DEN,KC,-9.0,43.0
+12629,2019,15,Oakland Raiders,OAK,Jacksonville Jaguars,JAX,LVR,-6.5,46.0
+12631,2019,15,San Francisco 49ers,SFO,Atlanta Falcons,ATL,SF,-10.0,49.5
+12634,2019,15,New Orleans Saints,NOR,Indianapolis Colts,IND,NO,-8.5,49.0
+12635,2019,16,New England Patriots,NWE,Buffalo Bills,BUF,NE,-6.5,38.5
+12636,2019,16,San Francisco 49ers,SFO,Los Angeles Rams,LAR,SF,-7.0,45.5
+12639,2019,16,Chicago Bears,CHI,Kansas City Chiefs,KAN,KC,-7.0,45.5
+12648,2019,16,Tennessee Titans,TEN,New Orleans Saints,NOR,NO,-3.0,49.0
+12653,2019,17,Carolina Panthers,CAR,New Orleans Saints,NOR,NO,-14.0,44.5
+12657,2019,17,Detroit Lions,DET,Green Bay Packers,GNB,GB,-13.0,44.0
+12660,2019,17,Kansas City Chiefs,KAN,Los Angeles Chargers,LAC,KC,-9.5,46.0
+12663,2019,17,New England Patriots,NWE,Miami Dolphins,MIA,NE,-17.0,45.5
+12665,2019,17,Seattle Seahawks,SEA,San Francisco 49ers,SFO,SF,-3.5,47.0
+12666,2019,17,Tampa Bay Buccaneers,TAM,Atlanta Falcons,ATL,TB,-1.0,48.5
