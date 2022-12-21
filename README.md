@@ -1,15 +1,27 @@
 # Project 2 
 ETL (Extract, Transform, Load) multiple data sets into a relational or NoSQL database.
 
+## Team Members
+* Charles Ballou
+* Ben Calderaio
+
 ## American Professional Football Database
 The database contains games stats and betting line information from 2010 - 2019.
 
+## Steps
+* Run the Database Setup scripts below
+    * **Note**: etl_schema.sql should be run using the football_db database.  This will organize the database objects to be stored in a schema called football_sch and not the public schema. 
+* Open project2.ipynb Jupyter notebook and follow the provided steps
 ## Notebook
 **project2.ipynb**
 
 ## Database Setup
 * create_db.sql
+    * Creates football_db database.
 * etl_schema.sql
+    * Creates schema and two tables.
+* sql_scripts.sql
+    * Creates a view and contains some sample sql.
 
 **Note**: Please create a sql_config.py file with your database connection information.
 
